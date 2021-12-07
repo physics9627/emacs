@@ -1,0 +1,6 @@
+
+pkgconfig on Mac OS X
+
+brew install zlib
+brew install X11
+It must be 3. one in zlib, another is in local/lib, last is X11/zlib/
